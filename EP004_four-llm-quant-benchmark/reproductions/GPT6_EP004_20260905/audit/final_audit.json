@@ -1,0 +1,24 @@
+{
+  "completed_at_utc": "2026-09-05T03:09:59.471959+00:00",
+  "status": "COMPLETE",
+  "strategy_frozen_hashes_unchanged": true,
+  "source_integrity": {
+    "loss": true,
+    "export": true,
+    "GOAL": true,
+    "README_FOR_MODEL": true
+  },
+  "source_git_clean": true,
+  "hyperopt_epochs": 6,
+  "distinct_parameter_sets": 5,
+  "completed_backtests": [
+    "TRAIN",
+    "VALID",
+    "TEST"
+  ],
+  "original_validators_produced_results": true,
+  "html_local_links_valid": true,
+  "embedded_images_verified": 4,
+  "html_sha256": "9e5fa8aeb3f083e6450c299b9f2db7a66803896cbf1269ec39656e4932d41b65",
+  "caveat": "Technical workflow completed; strategy TEST return is negative and DSR is not significant."
+}

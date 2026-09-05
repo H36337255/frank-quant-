@@ -1,0 +1,15 @@
+{
+  "checked_at_utc": "2026-09-05T01:42:54.633789+00:00",
+  "freqtrade_version": "2026.6",
+  "strategy_loaded": "CodexCausalTrend",
+  "config_schema": "PASS",
+  "can_short": true,
+  "timeframe": "4h",
+  "long_leverage": 1.0,
+  "short_leverage": 1.0,
+  "loss_loaded": "EP004ValidLoss",
+  "loss_sha256": "909db99a43b0a6d17e9532a0b8d185ff279331f1766a134c3f10af160900b708",
+  "market_data_files": 0,
+  "backtest_status": "NOT_RUN_MISSING_MARKET_DATA",
+  "note": "Runtime/config validation only; no synthetic or external market data used."
+}

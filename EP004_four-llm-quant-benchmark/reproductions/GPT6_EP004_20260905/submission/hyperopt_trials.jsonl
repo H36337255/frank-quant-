@@ -1,0 +1,6 @@
+{"train_sharpe": 1.0604, "valid_sharpe": 0.4848, "n_train": 4171, "n_valid": 1335, "loss": -0.197036}
+{"train_sharpe": 1.0789, "valid_sharpe": 0.7684, "n_train": 2305, "n_valid": 766, "loss": -0.613184}
+{"train_sharpe": 1.2515, "valid_sharpe": 0.4879, "n_train": 2869, "n_valid": 954, "loss": -0.106091}
+{"train_sharpe": 1.0352, "valid_sharpe": 0.5473, "n_train": 5769, "n_valid": 1772, "loss": -0.303316}
+{"train_sharpe": 1.2927, "valid_sharpe": 0.4159, "n_train": 3841, "n_valid": 1229, "loss": 0.022529}
+{"train_sharpe": 1.0352, "valid_sharpe": 0.5473, "n_train": 5769, "n_valid": 1772, "loss": -0.303316}

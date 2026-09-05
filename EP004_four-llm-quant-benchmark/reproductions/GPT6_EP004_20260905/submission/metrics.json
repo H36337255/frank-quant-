@@ -1,0 +1,39 @@
+{
+  "model": "Codex (GPT-6)",
+  "seed": 20260905,
+  "factors": [
+    "lagged_price_distance_from_rolling_mean",
+    "lagged_true_range_band"
+  ],
+  "timeframe": "4h",
+  "epochs_used": 6,
+  "strategy_family": "trend",
+  "turnover_control": "Enter beyond 0.5 or 1.0 prior ATR; exit across rolling mean; 4h candles",
+  "fee_bps": 6,
+  "slippage_bps": 0,
+  "funding_included": true,
+  "train": {
+    "ann_return": 0.6076326572579567,
+    "sharpe": 1.1933655637462224,
+    "sortino": 3.47530654815049,
+    "calmar": 1.853958689355621,
+    "max_drawdown": 0.3277487576970505,
+    "win_rate": 0.2713978494623656,
+    "profit_factor": 1.3545825956186723,
+    "turnover_per_year": 191.41899308093113,
+    "n_trades": 2325,
+    "sharpe_net_of_costs": 1.1933655637462224
+  },
+  "valid": {
+    "ann_return": 0.173684077953,
+    "sharpe": 0.5020346443825713,
+    "sortino": 1.554852970062964,
+    "calmar": 0.5832469920750638,
+    "max_drawdown": 0.2977882103344768,
+    "win_rate": 0.24804177545691905,
+    "profit_factor": 1.1427030888217362,
+    "turnover_per_year": 74.042354514,
+    "n_trades": 766,
+    "sharpe_net_of_costs": 0.5020346443825713
+  }
+}

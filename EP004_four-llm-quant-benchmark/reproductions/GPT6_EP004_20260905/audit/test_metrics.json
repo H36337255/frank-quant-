@@ -1,0 +1,37 @@
+{
+  "metrics": {
+    "ann_return": -0.2305267282434562,
+    "sharpe": -1.1464523636000992,
+    "sortino": -2.325961990635681,
+    "calmar": -0.6004534022693104,
+    "max_drawdown": 0.38392109591222245,
+    "win_rate": 0.19676214196762143,
+    "profit_factor": 0.7758512093525244,
+    "turnover_per_year": 62.226138584535505,
+    "n_trades": 803,
+    "sharpe_net_of_costs": -1.1464523636000992
+  },
+  "evidence": {
+    "archive": "backtest-result-2026-09-05_03-02-57.zip",
+    "profit_abs": -2310.7896764800003,
+    "return_total": -0.23107896764800007,
+    "long_trades": 402,
+    "short_trades": 401,
+    "long_profit_abs": -2678.58915502,
+    "short_profit_abs": 367.7994785399999,
+    "funding_column_present": true,
+    "funding_fees_sum": -197.03662666381774,
+    "fee_open_values": [
+      0.0006
+    ],
+    "fee_close_values": [
+      0.0006
+    ],
+    "leverage_values": [
+      1.0
+    ],
+    "first_open": "2025-07-01 04:00:00+00:00",
+    "last_close": "2026-06-30 20:00:00+00:00",
+    "score_calendar_days": 366
+  }
+}

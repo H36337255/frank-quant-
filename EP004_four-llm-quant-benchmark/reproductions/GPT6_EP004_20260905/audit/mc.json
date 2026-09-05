@@ -1,0 +1,13 @@
+{
+  "trades_file": "G:\\AI\\codex\\QuantExperiment\\submission\\backtest_results\\valid.zip",
+  "n_trades": 766,
+  "iters": 5000,
+  "block": 10,
+  "start": 1000.0,
+  "orig_final": 435.22664404580166,
+  "prob_profit": 0.4184,
+  "final_P5": 0.013559097435393665,
+  "final_P50": 240.36801070509324,
+  "final_P95": 33916897.569887206,
+  "mean_trade_ret": 0.010794481988377826
+}

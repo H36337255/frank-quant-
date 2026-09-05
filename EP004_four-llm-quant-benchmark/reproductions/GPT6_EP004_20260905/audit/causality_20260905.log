@@ -1,0 +1,164 @@
+2026-09-05 01:54:07,926 - freqtrade.loggers - INFO - Enabling colorized output.
+2026-09-05 01:54:07,927 - freqtrade.loggers - INFO - Logfile configured
+2026-09-05 01:54:07,927 - freqtrade.loggers - INFO - Verbosity set to 0
+sudo: unable to resolve host ccb84289c528: Temporary failure in name resolution
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data': Read-only file system
+2026-09-05 01:54:08,024 - freqtrade.configuration.directory_operations - WARNING - Could not chown /freqtrade/user_data
+2026-09-05 01:54:08,028 - freqtrade.configuration.configuration - INFO - Using user-data directory: /freqtrade/user_data ...
+2026-09-05 01:54:08,029 - freqtrade.configuration.configuration - INFO - Using data directory: /freqtrade/user_data/data/binance ...
+2026-09-05 01:54:08,030 - freqtrade.exchange.check_exchange - INFO - Checking exchange...
+2026-09-05 01:54:08,035 - freqtrade.exchange.check_exchange - INFO - Exchange "binance" is officially supported by the Freqtrade development team.
+2026-09-05 01:54:08,036 - freqtrade.configuration.configuration - INFO - Using pairlist from configuration.
+2026-09-05 01:54:08,045 - freqtrade.resolvers.iresolver - INFO - Using resolved strategy CodexCausalTrend from '/freqtrade/user_data/strategies/CodexCausalTrend.py'...
+2026-09-05 01:54:08,046 - freqtrade.strategy.hyper - INFO - Loading parameters from file /freqtrade/user_data/strategies/CodexCausalTrend.json
+2026-09-05 01:54:08,048 - freqtrade.resolvers.strategy_resolver - INFO - Override strategy 'stake_currency' with value from the configuration: USDT.
+2026-09-05 01:54:08,048 - freqtrade.resolvers.strategy_resolver - INFO - Override strategy 'stake_amount' with value from the configuration: unlimited.
+2026-09-05 01:54:08,049 - freqtrade.resolvers.strategy_resolver - INFO - Override strategy 'max_open_trades' with value from the configuration: 20.
+2026-09-05 01:54:08,049 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using minimal_roi: {'0': 100.0}
+2026-09-05 01:54:08,049 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using timeframe: 4h
+2026-09-05 01:54:08,049 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using stoploss: -0.1
+2026-09-05 01:54:08,049 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using trailing_stop: False
+2026-09-05 01:54:08,049 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using trailing_stop_positive_offset: 0.0
+2026-09-05 01:54:08,050 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using trailing_only_offset_is_reached: False
+2026-09-05 01:54:08,050 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using use_custom_stoploss: False
+2026-09-05 01:54:08,050 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using process_only_new_candles: True
+2026-09-05 01:54:08,050 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using order_types: {'entry': 'limit', 'exit': 'limit', 'stoploss': 'limit', 'stoploss_on_exchange': False, 
+'stoploss_on_exchange_interval': 60}
+2026-09-05 01:54:08,050 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using order_time_in_force: {'entry': 'GTC', 'exit': 'GTC'}
+2026-09-05 01:54:08,050 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using stake_currency: USDT
+2026-09-05 01:54:08,051 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using stake_amount: unlimited
+2026-09-05 01:54:08,051 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using startup_candle_count: 182
+2026-09-05 01:54:08,051 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using use_exit_signal: True
+2026-09-05 01:54:08,051 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using exit_profit_only: False
+2026-09-05 01:54:08,051 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using ignore_roi_if_entry_signal: False
+2026-09-05 01:54:08,051 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using exit_profit_offset: 0.0
+2026-09-05 01:54:08,051 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using disable_dataframe_checks: False
+2026-09-05 01:54:08,052 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using ignore_buying_expired_candle_after: 0
+2026-09-05 01:54:08,052 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using position_adjustment_enable: False
+2026-09-05 01:54:08,052 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using max_entry_position_adjustment: -1
+2026-09-05 01:54:08,052 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using max_open_trades: 20
+[mode] entry/exit 信号(自写策略)
+[CodexCausalTrend] 有效对比点=200  max |full - truncated| = 0.000e+00
+VERDICT: 信号因果,无未来函数  [PASS]

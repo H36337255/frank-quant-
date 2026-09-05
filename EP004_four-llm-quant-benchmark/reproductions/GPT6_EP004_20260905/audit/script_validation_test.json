@@ -1,0 +1,50 @@
+{
+  "checks": [
+    {
+      "script": "deflated_sharpe.py",
+      "argv": [
+        "G:\\AI\\codex\\QuantExperiment\\.analysis312\\Scripts\\python.exe",
+        "G:\\AI\\codex\\QuantExperiment\\source\\EP004_four-llm-quant-benchmark\\scripts\\deflated_sharpe.py",
+        "--hyperopt",
+        "G:\\AI\\codex\\QuantExperiment\\submission\\hyperopt_results.json",
+        "--trades",
+        "G:\\AI\\codex\\QuantExperiment\\submission\\backtest_results\\test.zip",
+        "--wallet",
+        "10000"
+      ],
+      "cwd": "G:\\AI\\codex\\QuantExperiment\\submission",
+      "sha256": "d4a70ee2e59b19bebdf8abeb3c8a975ac118e08a49acfecedde7c1851a43dac7",
+      "required_input": "Original TRAIN/VALID search trials and frozen-candidate TEST trades",
+      "status": "VALID_RESULT",
+      "returncode": 0,
+      "stdout": "{\n  \"n_trials\": 6,\n  \"sr_trials_var\": 0.0147,\n  \"observed_sharpe_annual\": -1.148,\n  \"expected_max_sharpe_annual_by_luck\": 0.158,\n  \"T_days\": 365,\n  \"skew\": 5.986,\n  \"kurtosis\": 68.432,\n  \"DSR\": 0.137,\n  \"verdict\": \"不显著 —— 大概率是搜出来的运气\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "script": "mc_bootstrap.py",
+      "argv": [
+        "G:\\AI\\codex\\QuantExperiment\\.analysis312\\Scripts\\python.exe",
+        "G:\\AI\\codex\\QuantExperiment\\source\\EP004_four-llm-quant-benchmark\\scripts\\mc_bootstrap.py",
+        "--trades",
+        "G:\\AI\\codex\\QuantExperiment\\submission\\backtest_results\\test.zip",
+        "--iters",
+        "5000",
+        "--block",
+        "10",
+        "--seed",
+        "20260905",
+        "--out",
+        "G:\\AI\\codex\\QuantExperiment\\audit\\mc_test.json",
+        "--plot",
+        "G:\\AI\\codex\\QuantExperiment\\audit\\mc_test.png"
+      ],
+      "cwd": "G:\\AI\\codex\\QuantExperiment\\submission",
+      "sha256": "a08d24b4a1be761ef6526bfaa03712e9082ddbb60150e17a04299025dceb5a11",
+      "required_input": "Frozen-candidate TEST trades",
+      "status": "VALID_RESULT",
+      "returncode": 0,
+      "stdout": "{\n  \"trades_file\": \"G:\\\\AI\\\\codex\\\\QuantExperiment\\\\submission\\\\backtest_results\\\\test.zip\",\n  \"n_trades\": 803,\n  \"iters\": 5000,\n  \"block\": 10,\n  \"start\": 1000.0,\n  \"orig_final\": 0.35838994485606057,\n  \"prob_profit\": 0.0408,\n  \"final_P5\": 0.00016386770991046778,\n  \"final_P50\": 0.16624129887100153,\n  \"final_P95\": 538.57464610422,\n  \"mean_trade_ret\": -0.006034610632664683\n}\n[mc] summary -> G:\\AI\\codex\\QuantExperiment\\audit\\mc_test.json\n[mc] plot -> G:\\AI\\codex\\QuantExperiment\\audit\\mc_test.png\n",
+      "stderr": ""
+    }
+  ]
+}
