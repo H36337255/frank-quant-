@@ -1,0 +1,60 @@
+{
+  "model": "Codex (GPT-6)",
+  "n_epochs": 6,
+  "trials": [
+    {
+      "epoch": 1,
+      "params": {
+        "entry_band": 0.5,
+        "trend_window": 60
+      },
+      "train_sharpe": 1.0352,
+      "valid_sharpe": 0.5473
+    },
+    {
+      "epoch": 2,
+      "params": {
+        "entry_band": 1.0,
+        "trend_window": 120
+      },
+      "train_sharpe": 1.2515,
+      "valid_sharpe": 0.4879
+    },
+    {
+      "epoch": 3,
+      "params": {
+        "entry_band": 1.0,
+        "trend_window": 60
+      },
+      "train_sharpe": 1.0604,
+      "valid_sharpe": 0.4848
+    },
+    {
+      "epoch": 4,
+      "params": {
+        "entry_band": 0.5,
+        "trend_window": 60
+      },
+      "train_sharpe": 1.0352,
+      "valid_sharpe": 0.5473
+    },
+    {
+      "epoch": 5,
+      "params": {
+        "entry_band": 0.5,
+        "trend_window": 120
+      },
+      "train_sharpe": 1.2927,
+      "valid_sharpe": 0.4159
+    },
+    {
+      "epoch": 6,
+      "params": {
+        "entry_band": 1.0,
+        "trend_window": 180
+      },
+      "train_sharpe": 1.0789,
+      "valid_sharpe": 0.7684
+    }
+  ]
+}

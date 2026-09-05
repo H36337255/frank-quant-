@@ -1,0 +1,99 @@
+{
+  "frozen_at_utc": "2026-09-05T02:58:24.445916+00:00",
+  "selected": {
+    "epoch": 6,
+    "params": {
+      "entry_band": 1.0,
+      "trend_window": 180
+    },
+    "loss": -0.6131839648663211,
+    "train_sharpe": 1.078899647252134,
+    "valid_sharpe": 0.7684225256615921,
+    "long_trades": 1530,
+    "short_trades": 1541
+  },
+  "actual_epochs": 6,
+  "distinct_parameter_sets": 5,
+  "export_join_verified_against_raw_trades": true,
+  "duplicate_note": "Epochs 1 and 4 repeat the same parameters and recomputed scores; no ambiguous different-score join observed.",
+  "trials": [
+    {
+      "epoch": 1,
+      "params": {
+        "entry_band": 0.5,
+        "trend_window": 60
+      },
+      "loss": -0.303315674911926,
+      "train_sharpe": 1.0352256108350273,
+      "valid_sharpe": 0.5472856535529598,
+      "long_trades": 3772,
+      "short_trades": 3769
+    },
+    {
+      "epoch": 2,
+      "params": {
+        "entry_band": 1.0,
+        "trend_window": 120
+      },
+      "loss": -0.10609072832177374,
+      "train_sharpe": 1.2514526562019954,
+      "valid_sharpe": 0.48787803761518095,
+      "long_trades": 1904,
+      "short_trades": 1919
+    },
+    {
+      "epoch": 3,
+      "params": {
+        "entry_band": 1.0,
+        "trend_window": 60
+      },
+      "loss": -0.1970360908416396,
+      "train_sharpe": 1.0603510105668454,
+      "valid_sharpe": 0.4848077307500415,
+      "long_trades": 2761,
+      "short_trades": 2745
+    },
+    {
+      "epoch": 4,
+      "params": {
+        "entry_band": 0.5,
+        "trend_window": 60
+      },
+      "loss": -0.303315674911926,
+      "train_sharpe": 1.0352256108350273,
+      "valid_sharpe": 0.5472856535529598,
+      "long_trades": 3772,
+      "short_trades": 3769
+    },
+    {
+      "epoch": 5,
+      "params": {
+        "entry_band": 0.5,
+        "trend_window": 120
+      },
+      "loss": 0.022528605408966618,
+      "train_sharpe": 1.2926810428542561,
+      "valid_sharpe": 0.4158746106787743,
+      "long_trades": 2546,
+      "short_trades": 2524
+    },
+    {
+      "epoch": 6,
+      "params": {
+        "entry_band": 1.0,
+        "trend_window": 180
+      },
+      "loss": -0.6131839648663211,
+      "train_sharpe": 1.078899647252134,
+      "valid_sharpe": 0.7684225256615921,
+      "long_trades": 1530,
+      "short_trades": 1541
+    }
+  ],
+  "file_hashes": {
+    "strategies/CodexCausalTrend.py": "7cd3f2e4fcf75b3ebbd9c9c14326a3a5216817fd76762f77d5a82a880b979fa3",
+    "strategies/CodexCausalTrend.json": "a42ee4e30d23373834caa5e5a89cf4186c8e7625283a782576e4e083409dd0bc",
+    "config.json": "1c8309b1c9e19a7a3415da34defce5fc09754462fd17f7c139d38f12ade70374",
+    "hyperopt_results.json": "d54177e6c5e77ddbd1f3c5e595964ae371e62922e341555f8412f8bb39f7264a"
+  }
+}

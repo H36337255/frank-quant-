@@ -1,0 +1,10 @@
+.venv/
+.analysis312/
+data/
+out/
+**/__pycache__/
+**/*.pyc
+!audit/raw_hyperopt.zip
+!submission/backtest_results/train.zip
+!submission/backtest_results/valid.zip
+!submission/backtest_results/test.zip

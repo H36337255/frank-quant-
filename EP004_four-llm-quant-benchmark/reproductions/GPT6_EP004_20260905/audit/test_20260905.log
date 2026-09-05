@@ -1,0 +1,402 @@
+2026-09-05 03:02:37,315 - freqtrade - INFO - freqtrade 2026.6
+2026-09-05 03:02:37,540 - numexpr.utils - INFO - Note: NumExpr detected 28 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2026-09-05 03:02:37,540 - numexpr.utils - INFO - NumExpr defaulting to 16 threads.
+2026-09-05 03:02:38,953 - freqtrade.configuration.load_config - INFO - Using config: /freqtrade/user_data/config.json ...
+2026-09-05 03:02:38,955 - freqtrade.configuration.configuration - INFO - Parameter --no-color detected ...
+2026-09-05 03:02:38,956 - freqtrade.loggers - INFO - Logfile configured
+2026-09-05 03:02:38,957 - freqtrade.loggers - INFO - Verbosity set to 0
+2026-09-05 03:02:38,957 - freqtrade.configuration.configuration - INFO - Using max_open_trades: 20 ...
+2026-09-05 03:02:38,957 - freqtrade.configuration.configuration - INFO - Parameter --fee detected, setting fee to: 0.0006 ...
+2026-09-05 03:02:38,957 - freqtrade.configuration.configuration - INFO - Parameter --timerange detected: 20250701-20260701 ...
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AAVE_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ADA_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ATOM_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/AVAX_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BCH_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BNB_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/BTC_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOGE_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/DOT_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETC_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/ETH_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/FIL_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LINK_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/LTC_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/NEAR_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/SOL_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/TRX_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/UNI_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XLM_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-1d-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-1h-funding_rate.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-1h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-1h-mark.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-30m-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures/XRP_USDT_USDT-4h-futures.feather': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance/futures': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data/binance': Read-only file system
+chown: changing ownership of '/freqtrade/user_data/data': Read-only file system
+2026-09-05 03:02:39,019 - freqtrade.configuration.directory_operations - WARNING - Could not chown /freqtrade/user_data
+2026-09-05 03:02:39,026 - freqtrade.configuration.configuration - INFO - Using user-data directory: /freqtrade/user_data ...
+2026-09-05 03:02:39,027 - freqtrade.configuration.configuration - INFO - Using data directory: /freqtrade/user_data/data/binance ...
+2026-09-05 03:02:39,027 - freqtrade.configuration.configuration - INFO - Parameter --export detected: trades ...
+2026-09-05 03:02:39,027 - freqtrade.configuration.configuration - INFO - Parameter --cache=none detected ...
+2026-09-05 03:02:39,028 - freqtrade.configuration.configuration - INFO - Filter trades by timerange: 20250701-20260701
+2026-09-05 03:02:39,028 - freqtrade.exchange.check_exchange - INFO - Checking exchange...
+2026-09-05 03:02:39,034 - freqtrade.exchange.check_exchange - INFO - Exchange "binance" is officially supported by the Freqtrade development team.
+2026-09-05 03:02:39,034 - freqtrade.configuration.configuration - INFO - Using pairlist from configuration.
+2026-09-05 03:02:39,035 - freqtrade.configuration.config_validation - INFO - Validating configuration ...
+2026-09-05 03:02:39,036 - freqtrade.commands.optimize_commands - INFO - Starting freqtrade in Backtesting mode
+2026-09-05 03:02:39,036 - freqtrade.exchange.exchange - INFO - Instance is running with dry_run enabled
+2026-09-05 03:02:39,037 - freqtrade.exchange.exchange - INFO - Using CCXT 4.5.61
+2026-09-05 03:02:39,037 - freqtrade.exchange.exchange - INFO - Applying additional ccxt config: {'options': {'defaultType': 'swap'}}
+2026-09-05 03:02:39,042 - freqtrade.exchange.exchange - INFO - Applying additional ccxt config: {'options': {'defaultType': 'swap'}}
+2026-09-05 03:02:39,049 - freqtrade.exchange.exchange - INFO - Using Exchange "Binance"
+2026-09-05 03:02:39,833 - freqtrade.resolvers.exchange_resolver - INFO - Using resolved exchange 'Binance'...
+2026-09-05 03:02:39,841 - freqtrade.resolvers.iresolver - INFO - Using resolved strategy CodexCausalTrend from '/freqtrade/user_data/strategies/CodexCausalTrend.py'...
+2026-09-05 03:02:39,842 - freqtrade.strategy.hyper - INFO - Loading parameters from file /freqtrade/user_data/strategies/CodexCausalTrend.json
+2026-09-05 03:02:39,843 - freqtrade.resolvers.strategy_resolver - INFO - Override strategy 'stake_currency' with value from the configuration: USDT.
+2026-09-05 03:02:39,844 - freqtrade.resolvers.strategy_resolver - INFO - Override strategy 'stake_amount' with value from the configuration: unlimited.
+2026-09-05 03:02:39,844 - freqtrade.resolvers.strategy_resolver - INFO - Override strategy 'max_open_trades' with value from the configuration: 20.
+2026-09-05 03:02:39,844 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using minimal_roi: {'0': 100.0}
+2026-09-05 03:02:39,844 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using timeframe: 4h
+2026-09-05 03:02:39,844 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using stoploss: -0.1
+2026-09-05 03:02:39,844 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using trailing_stop: False
+2026-09-05 03:02:39,845 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using trailing_stop_positive_offset: 0.0
+2026-09-05 03:02:39,845 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using trailing_only_offset_is_reached: False
+2026-09-05 03:02:39,845 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using use_custom_stoploss: False
+2026-09-05 03:02:39,845 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using process_only_new_candles: True
+2026-09-05 03:02:39,845 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using order_types: {'entry': 'limit', 'exit': 'limit', 'stoploss': 'limit', 'stoploss_on_exchange': False, 
+'stoploss_on_exchange_interval': 60}
+2026-09-05 03:02:39,845 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using order_time_in_force: {'entry': 'GTC', 'exit': 'GTC'}
+2026-09-05 03:02:39,846 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using stake_currency: USDT
+2026-09-05 03:02:39,846 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using stake_amount: unlimited
+2026-09-05 03:02:39,846 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using startup_candle_count: 182
+2026-09-05 03:02:39,846 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using use_exit_signal: True
+2026-09-05 03:02:39,846 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using exit_profit_only: False
+2026-09-05 03:02:39,846 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using ignore_roi_if_entry_signal: False
+2026-09-05 03:02:39,847 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using exit_profit_offset: 0.0
+2026-09-05 03:02:39,847 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using disable_dataframe_checks: False
+2026-09-05 03:02:39,847 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using ignore_buying_expired_candle_after: 0
+2026-09-05 03:02:39,847 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using position_adjustment_enable: False
+2026-09-05 03:02:39,848 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using max_entry_position_adjustment: -1
+2026-09-05 03:02:39,848 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using max_open_trades: 20
+2026-09-05 03:02:39,848 - freqtrade.configuration.config_validation - INFO - Validating configuration ...
+2026-09-05 03:02:39,851 - freqtrade.resolvers.iresolver - INFO - Using resolved pairlist StaticPairList from '/freqtrade/freqtrade/plugins/pairlist/StaticPairList.py'...
+2026-09-05 03:02:39,867 - freqtrade.optimize.backtesting - INFO - Using fee 0.0600% from config.
+2026-09-05 03:02:39,893 - freqtrade.data.history.datahandlers.idatahandler - WARNING - BTC/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:39,910 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ETH/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:39,925 - freqtrade.data.history.datahandlers.idatahandler - WARNING - SOL/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:39,937 - freqtrade.data.history.datahandlers.idatahandler - WARNING - BNB/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:39,949 - freqtrade.data.history.datahandlers.idatahandler - WARNING - XRP/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:39,962 - freqtrade.data.history.datahandlers.idatahandler - WARNING - DOGE/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:39,977 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ADA/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:39,993 - freqtrade.data.history.datahandlers.idatahandler - WARNING - LINK/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,015 - freqtrade.data.history.datahandlers.idatahandler - WARNING - LTC/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,030 - freqtrade.data.history.datahandlers.idatahandler - WARNING - BCH/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,045 - freqtrade.data.history.datahandlers.idatahandler - WARNING - AVAX/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,066 - freqtrade.data.history.datahandlers.idatahandler - WARNING - DOT/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,079 - freqtrade.data.history.datahandlers.idatahandler - WARNING - UNI/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,093 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ATOM/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,108 - freqtrade.data.history.datahandlers.idatahandler - WARNING - NEAR/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,121 - freqtrade.data.history.datahandlers.idatahandler - WARNING - FIL/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,134 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ETC/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,153 - freqtrade.data.history.datahandlers.idatahandler - WARNING - TRX/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,166 - freqtrade.data.history.datahandlers.idatahandler - WARNING - XLM/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,179 - freqtrade.data.history.datahandlers.idatahandler - WARNING - AAVE/USDT:USDT, futures, 4h, data ends at 2026-06-30 20:00:00
+2026-09-05 03:02:40,189 - freqtrade.optimize.backtesting - INFO - Loading data from 2025-05-31 16:00:00 up to 2026-06-30 20:00:00 (395 days).
+2026-09-05 03:02:40,205 - freqtrade.data.history.datahandlers.idatahandler - WARNING - BTC/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,214 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ETH/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,224 - freqtrade.data.history.datahandlers.idatahandler - WARNING - SOL/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,235 - freqtrade.data.history.datahandlers.idatahandler - WARNING - BNB/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,246 - freqtrade.data.history.datahandlers.idatahandler - WARNING - XRP/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,255 - freqtrade.data.history.datahandlers.idatahandler - WARNING - DOGE/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,266 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ADA/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,296 - freqtrade.data.history.datahandlers.idatahandler - WARNING - LINK/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,307 - freqtrade.data.history.datahandlers.idatahandler - WARNING - LTC/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,346 - freqtrade.data.history.datahandlers.idatahandler - WARNING - BCH/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,356 - freqtrade.data.history.datahandlers.idatahandler - WARNING - AVAX/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,365 - freqtrade.data.history.datahandlers.idatahandler - WARNING - DOT/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,375 - freqtrade.data.history.datahandlers.idatahandler - WARNING - UNI/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,385 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ATOM/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,396 - freqtrade.data.history.datahandlers.idatahandler - WARNING - NEAR/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,407 - freqtrade.data.history.datahandlers.idatahandler - WARNING - FIL/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,416 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ETC/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,425 - freqtrade.data.history.datahandlers.idatahandler - WARNING - TRX/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,436 - freqtrade.data.history.datahandlers.idatahandler - WARNING - XLM/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,444 - freqtrade.data.history.datahandlers.idatahandler - WARNING - AAVE/USDT:USDT, funding_rate, 1h, data ends at 2026-06-30 16:00:00
+2026-09-05 03:02:40,454 - freqtrade.data.history.datahandlers.idatahandler - WARNING - BTC/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,472 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ETH/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,513 - freqtrade.data.history.datahandlers.idatahandler - WARNING - SOL/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,529 - freqtrade.data.history.datahandlers.idatahandler - WARNING - BNB/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,545 - freqtrade.data.history.datahandlers.idatahandler - WARNING - XRP/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,563 - freqtrade.data.history.datahandlers.idatahandler - WARNING - DOGE/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,578 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ADA/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,595 - freqtrade.data.history.datahandlers.idatahandler - WARNING - LINK/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,617 - freqtrade.data.history.datahandlers.idatahandler - WARNING - LTC/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,633 - freqtrade.data.history.datahandlers.idatahandler - WARNING - BCH/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,650 - freqtrade.data.history.datahandlers.idatahandler - WARNING - AVAX/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,665 - freqtrade.data.history.datahandlers.idatahandler - WARNING - DOT/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,681 - freqtrade.data.history.datahandlers.idatahandler - WARNING - UNI/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,698 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ATOM/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,715 - freqtrade.data.history.datahandlers.idatahandler - WARNING - NEAR/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,729 - freqtrade.data.history.datahandlers.idatahandler - WARNING - FIL/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,744 - freqtrade.data.history.datahandlers.idatahandler - WARNING - ETC/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,775 - freqtrade.data.history.datahandlers.idatahandler - WARNING - TRX/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,791 - freqtrade.data.history.datahandlers.idatahandler - WARNING - XLM/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:40,807 - freqtrade.data.history.datahandlers.idatahandler - WARNING - AAVE/USDT:USDT, mark, 1h, data ends at 2026-06-30 23:00:00
+2026-09-05 03:02:41,208 - freqtrade.optimize.backtesting - INFO - Dataload complete. Calculating indicators
+2026-09-05 03:02:41,213 - freqtrade.optimize.backtesting - INFO - Running backtesting for Strategy CodexCausalTrend
+2026-09-05 03:02:41,213 - freqtrade.strategy.hyper - INFO - Strategy Parameter: entry_band = 1.0
+2026-09-05 03:02:41,214 - freqtrade.strategy.hyper - INFO - Strategy Parameter: trend_window = 180
+2026-09-05 03:02:41,278 - freqtrade.optimize.backtesting - INFO - Backtesting with data from 2025-07-01 00:00:00 up to 2026-06-30 20:00:00 (364 days).
+backtest ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4/4       100% • 0:00:01 • 0:00:00
+backtest ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2189/2189 100% • 0:00:17 • 0:00:00
+2026-09-05 03:02:57,809 - freqtrade.misc - INFO - dumping json to "/freqtrade/user_data/backtest_results/backtest-result-2026-09-05_03-02-57.meta.json"
+Result for strategy CodexCausalTrend
+                                                   BACKTESTING REPORT                                                   
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃           Pair ┃ Trades ┃ Avg Profit % ┃ Tot Profit USDT ┃ Tot Profit % ┃      Avg Duration ┃  Win  Draw  Loss  Win% ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━┩
+│  BNB/USDT:USDT │     32 │         2.07 │         307.983 │         3.08 │  10 days, 6:30:00 │    9     0    23  28.1 │
+│  ETH/USDT:USDT │     34 │         1.23 │         174.000 │         1.74 │  9 days, 22:28:00 │    6     0    28  17.6 │
+│  TRX/USDT:USDT │     29 │         1.08 │         136.928 │         1.37 │ 11 days, 22:04:00 │    8     0    21  27.6 │
+│  XLM/USDT:USDT │     41 │         0.12 │          15.123 │         0.15 │   8 days, 5:45:00 │   10     0    31  24.4 │
+│  BTC/USDT:USDT │     31 │         0.26 │          -5.141 │        -0.05 │  11 days, 0:46:00 │    6     0    25  19.4 │
+│  SOL/USDT:USDT │     37 │         0.04 │         -23.681 │        -0.24 │  8 days, 22:29:00 │   10     0    27  27.0 │
+│  LTC/USDT:USDT │     39 │        -0.18 │         -36.383 │        -0.36 │  8 days, 13:14:00 │    5     0    34  12.8 │
+│  XRP/USDT:USDT │     38 │        -0.25 │         -58.042 │        -0.58 │  8 days, 22:06:00 │    8     0    30  21.1 │
+│ ATOM/USDT:USDT │     41 │        -0.16 │         -70.882 │        -0.71 │   8 days, 7:31:00 │    9     0    32  22.0 │
+│ LINK/USDT:USDT │     45 │        -0.73 │        -148.485 │        -1.48 │   7 days, 9:04:00 │    9     0    36  20.0 │
+│ AVAX/USDT:USDT │     43 │        -0.56 │        -157.849 │        -1.58 │  7 days, 16:00:00 │   10     0    33  23.3 │
+│ DOGE/USDT:USDT │     40 │        -0.64 │        -159.243 │        -1.59 │   8 days, 9:00:00 │    7     0    33  17.5 │
+│  ADA/USDT:USDT │     41 │        -0.77 │        -163.567 │        -1.64 │   8 days, 0:53:00 │    5     0    36  12.2 │
+│  UNI/USDT:USDT │     37 │        -1.24 │        -179.518 │         -1.8 │   9 days, 0:45:00 │    9     0    28  24.3 │
+│  DOT/USDT:USDT │     42 │        -1.05 │        -215.002 │        -2.15 │  7 days, 22:51:00 │    6     0    36  14.3 │
+│ AAVE/USDT:USDT │     47 │        -1.18 │        -231.329 │        -2.31 │  6 days, 22:18:00 │   12     0    35  25.5 │
+│  BCH/USDT:USDT │     45 │        -1.43 │        -271.782 │        -2.72 │  7 days, 10:03:00 │    6     0    39  13.3 │
+│ NEAR/USDT:USDT │     38 │        -1.81 │        -279.113 │        -2.79 │  8 days, 23:41:00 │    9     0    29  23.7 │
+│  ETC/USDT:USDT │     55 │        -2.01 │        -465.040 │        -4.65 │  5 days, 19:34:00 │    8     0    47  14.5 │
+│  FIL/USDT:USDT │     48 │        -2.34 │        -479.766 │         -4.8 │   7 days, 3:25:00 │    6     0    42  12.5 │
+│          TOTAL │    803 │         -0.6 │       -2310.790 │       -23.11 │   8 days, 8:04:00 │  158     0   645  19.7 │
+└────────────────┴────────┴──────────────┴─────────────────┴──────────────┴───────────────────┴────────────────────────┘
+                                                LEFT OPEN TRADES REPORT                                                 
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃           Pair ┃ Trades ┃ Avg Profit % ┃ Tot Profit USDT ┃ Tot Profit % ┃      Avg Duration ┃  Win  Draw  Loss  Win% ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━┩
+│  BCH/USDT:USDT │      1 │        52.77 │         169.830 │          1.7 │  49 days, 4:00:00 │    1     0     0   100 │
+│  ADA/USDT:USDT │      1 │        41.87 │         134.743 │         1.35 │ 43 days, 16:00:00 │    1     0     0   100 │
+│  ETH/USDT:USDT │      1 │        31.11 │         100.211 │          1.0 │  49 days, 8:00:00 │    1     0     0   100 │
+│ DOGE/USDT:USDT │      1 │        29.98 │          97.093 │         0.97 │ 41 days, 20:00:00 │    1     0     0   100 │
+│  DOT/USDT:USDT │      1 │        30.96 │          96.478 │         0.96 │ 33 days, 16:00:00 │    1     0     0   100 │
+│ AVAX/USDT:USDT │      1 │        28.05 │          87.188 │         0.87 │ 38 days, 20:00:00 │    1     0     0   100 │
+│ LINK/USDT:USDT │      1 │        23.66 │          75.739 │         0.76 │ 38 days, 20:00:00 │    1     0     0   100 │
+│  BTC/USDT:USDT │      1 │        23.85 │          73.319 │         0.73 │ 43 days, 16:00:00 │    1     0     0   100 │
+│  LTC/USDT:USDT │      1 │        22.75 │          73.234 │         0.73 │ 43 days, 16:00:00 │    1     0     0   100 │
+│  ETC/USDT:USDT │      1 │        19.61 │          61.524 │         0.62 │ 34 days, 20:00:00 │    1     0     0   100 │
+│ ATOM/USDT:USDT │      1 │        18.35 │          58.433 │         0.58 │ 12 days, 16:00:00 │    1     0     0   100 │
+│  FIL/USDT:USDT │      1 │        22.96 │          55.312 │         0.55 │  33 days, 8:00:00 │    1     0     0   100 │
+│ NEAR/USDT:USDT │      1 │        15.24 │          48.082 │         0.48 │ 11 days, 12:00:00 │    1     0     0   100 │
+│  XRP/USDT:USDT │      1 │        14.61 │          46.658 │         0.47 │ 14 days, 16:00:00 │    1     0     0   100 │
+│  BNB/USDT:USDT │      1 │        14.98 │          46.301 │         0.46 │ 27 days, 12:00:00 │    1     0     0   100 │
+│ AAVE/USDT:USDT │      1 │        12.29 │          38.158 │         0.38 │   6 days, 4:00:00 │    1     0     0   100 │
+│  TRX/USDT:USDT │      1 │         4.17 │          13.241 │         0.13 │   7 days, 8:00:00 │    1     0     0   100 │
+│  XLM/USDT:USDT │      1 │         3.85 │          12.201 │         0.12 │   7 days, 8:00:00 │    1     0     0   100 │
+│  SOL/USDT:USDT │      1 │         1.52 │           4.810 │         0.05 │    1 day, 8:00:00 │    1     0     0   100 │
+│          TOTAL │     19 │        21.71 │        1292.554 │        12.93 │  28 days, 9:16:00 │   19     0     0   100 │
+└────────────────┴────────┴──────────────┴─────────────────┴──────────────┴───────────────────┴────────────────────────┘
+                                                 ENTER TAG STATS                                                  
+┏━━━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Enter Tag ┃ Entries ┃ Avg Profit % ┃ Tot Profit USDT ┃ Tot Profit % ┃    Avg Duration ┃  Win  Draw  Loss  Win% ┃
+┡━━━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━┩
+│     OTHER │     803 │         -0.6 │       -2310.790 │       -23.11 │ 8 days, 8:04:00 │  158     0   645  19.7 │
+│     TOTAL │     803 │         -0.6 │       -2310.790 │       -23.11 │ 8 days, 8:04:00 │  158     0   645  19.7 │
+└───────────┴─────────┴──────────────┴─────────────────┴──────────────┴─────────────────┴────────────────────────┘
+                                                 EXIT REASON STATS                                                 
+┏━━━━━━━━━━━━━┳━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Exit Reason ┃ Exits ┃ Avg Profit % ┃ Tot Profit USDT ┃ Tot Profit % ┃     Avg Duration ┃  Win  Draw  Loss  Win% ┃
+┡━━━━━━━━━━━━━╇━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━┩
+│  force_exit │    19 │        21.71 │        1292.554 │        12.93 │ 28 days, 9:16:00 │   19     0     0   100 │
+│ exit_signal │   733 │        -0.52 │       -1577.647 │       -15.78 │  8 days, 1:23:00 │  139     0   594  19.0 │
+│   stop_loss │    51 │       -10.15 │       -2025.696 │       -20.26 │ 4 days, 20:56:00 │    0     0    51     0 │
+│       TOTAL │   803 │         -0.6 │       -2310.790 │       -23.11 │  8 days, 8:04:00 │  158     0   645  19.7 │
+└─────────────┴───────┴──────────────┴─────────────────┴──────────────┴──────────────────┴────────────────────────┘
+                                                        MIXED TAG STATS                                                         
+┏━━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Enter Tag ┃ Exit Reason ┃ Trades ┃ Avg Profit % ┃ Tot Profit USDT ┃ Tot Profit % ┃     Avg Duration ┃  Win  Draw  Loss  Win% ┃
+┡━━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━┩
+│           │  force_exit │     19 │        21.71 │        1292.554 │        12.93 │ 28 days, 9:16:00 │   19     0     0   100 │
+│           │ exit_signal │    733 │        -0.52 │       -1577.647 │       -15.78 │  8 days, 1:23:00 │  139     0   594  19.0 │
+│           │   stop_loss │     51 │       -10.15 │       -2025.696 │       -20.26 │ 4 days, 20:56:00 │    0     0    51     0 │
+│     TOTAL │             │    803 │         -0.6 │       -2310.790 │       -23.11 │  8 days, 8:04:00 │  158     0   645  19.7 │
+└───────────┴─────────────┴────────┴──────────────┴─────────────────┴──────────────┴──────────────────┴────────────────────────┘
+                                   SUMMARY METRICS                                    
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Metric                                 ┃ Value                                     ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Backtesting from                       │ 2025-07-01 00:00:00                       │
+│ Backtesting to                         │ 2026-06-30 20:00:00                       │
+│ Trading Mode                           │ Isolated Futures                          │
+│ Max open trades                        │ 20                                        │
+│                                        │                                           │
+│ Total/Daily Avg Trades                 │ 803 / 2.21                                │
+│ Starting balance                       │ 10000 USDT                                │
+│ Final balance                          │ 7689.21 USDT                              │
+│ Absolute profit                        │ -2310.79 USDT                             │
+│ Total profit %                         │ -23.11%                                   │
+│ CAGR %                                 │ -23.16%                                   │
+│ Sharpe (closed trades)                 │ -3.30                                     │
+│ Sortino (closed trades)                │ -10.62                                    │
+│ Calmar (closed trades)                 │ -3.15                                     │
+│ SQN                                    │ -2.22                                     │
+│ Mean profit p-value                    │ 0.02702                                   │
+│ Profit factor                          │ 0.78                                      │
+│ Expectancy (Ratio)                     │ -2.88 (-0.18)                             │
+│ Avg. daily profit                      │ -6.348 USDT                               │
+│ Avg. stake amount                      │ 388.522 USDT                              │
+│ Market change                          │ -48.89%                                   │
+│ Total trade volume                     │ 621373.217 USDT                           │
+│                                        │                                           │
+│ Long / Short trades                    │ 402 / 401                                 │
+│ Long / Short profit %                  │ -26.79% / 3.68%                           │
+│ Long / Short profit USDT               │ -2678.589 / 367.799                       │
+│                                        │                                           │
+│ Best Pair                              │ BNB/USDT:USDT 3.08%                       │
+│ Worst Pair                             │ FIL/USDT:USDT -4.80%                      │
+│ Best trade                             │ ETH/USDT:USDT 66.25%                      │
+│ Worst trade                            │ BCH/USDT:USDT -10.59%                     │
+│ Best day                               │ 1283.251 USDT                             │
+│ Worst day                              │ -337.788 USDT                             │
+│ Days win/draw/lose                     │ 53 / 121 / 191                            │
+│ Min/Max/Avg. Duration Winners          │ 0d 04:00 / 107d 00:00 / 27d 02:32         │
+│ Min/Max/Avg. Duration Losers           │ 0d 04:00 / 27d 20:00 / 3d 17:43           │
+│ Max Consecutive Wins / Loss            │ 19 / 52                                   │
+│ Rejected Entry signals                 │ 0                                         │
+│ Entry/Exit Timeouts                    │ 0 / 0                                     │
+│                                        │                                           │
+│ Min/Max balance (closed trades)        │ 6290.246 USDT / 10218.727 USDT            │
+│ Max % of account underwater            │ 38.44%                                    │
+│ Absolute drawdown                      │ 3928.481 USDT (38.44%)                    │
+│ Drawdown duration                      │ 298 days 12:00:00                         │
+│ Profit at drawdown start               │ 218.727 USDT                              │
+│ Profit at drawdown end                 │ -3709.754 USDT                            │
+│ Drawdown start                         │ 2025-08-02 20:00:00                       │
+│ Drawdown end                           │ 2026-05-28 08:00:00                       │
+│                                        │                                           │
+│ Wallet based Metrics                   │                                           │
+│ Min/Max balance (wallet balance)       │ 6290.246 USDT / 10218.727 USDT            │
+│ Min/Max balance dates (wallet balance) │ 2026-05-28 12:00:00 / 2025-08-03 00:00:00 │
+│ Max % of account underwater (balance)  │ 38.44%                                    │
+│ Absolute drawdown (wallet balance)     │ 3928.481 USDT (38.44%)                    │
+│ Drawdown duration                      │ 298 days 12:00:00                         │
+│ Profit at drawdown start               │ 218.727 USDT                              │
+│ Profit at drawdown end                 │ -3709.754 USDT                            │
+│ Drawdown start                         │ 2025-08-03 00:00:00                       │
+│ Drawdown end                           │ 2026-05-28 12:00:00                       │
+│ Sharpe (daily wallet balance)          │ -2.25                                     │
+│ Sortino (daily wallet balance)         │ -3.84                                     │
+│ Calmar (daily wallet balance)          │ -4.92                                     │
+└────────────────────────────────────────┴───────────────────────────────────────────┘
+
+Backtested 2025-07-01 00:00:00 -> 2026-06-30 20:00:00 | Max open trades : 20
+                                                                STRATEGY SUMMARY                                                                
+┏━━━━━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━┓
+┃         Strategy ┃ Trades ┃ Avg Profit % ┃ Tot Profit USDT ┃ Tot Profit % ┃    Avg Duration ┃  Win  Draw  Loss  Win% ┃              Drawdown ┃
+┡━━━━━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━┩
+│ CodexCausalTrend │    803 │        -0.60 │       -2310.790 │       -23.11 │ 8 days, 8:04:00 │  158     0   645  19.7 │ 3928.481 USDT  38.44% │
+└──────────────────┴────────┴──────────────┴─────────────────┴──────────────┴─────────────────┴────────────────────────┴───────────────────────┘

@@ -1,0 +1,26 @@
+{
+  "stage": "causality",
+  "started": "2026-09-05T01:54:05.548434+00:00",
+  "finished": "2026-09-05T01:54:10.030707+00:00",
+  "command": [
+    "docker",
+    "run",
+    "--rm",
+    "-v",
+    "G:\\AI\\codex\\QuantExperiment\\submission:/freqtrade/user_data",
+    "-v",
+    "G:\\AI\\codex\\QuantExperiment\\data\\train_valid:/freqtrade/user_data/data:ro",
+    "-v",
+    "G:\\AI\\codex\\QuantExperiment\\source\\EP004_four-llm-quant-benchmark\\scripts:/experiment_scripts:ro",
+    "--network",
+    "none",
+    "--entrypoint",
+    "python",
+    "freqtradeorg/freqtrade:2026.6",
+    "/experiment_scripts/factor_causality_check.py",
+    "--strategy",
+    "CodexCausalTrend"
+  ],
+  "returncode": 0,
+  "log": "G:\\AI\\codex\\QuantExperiment\\audit\\causality_20260905.log"
+}

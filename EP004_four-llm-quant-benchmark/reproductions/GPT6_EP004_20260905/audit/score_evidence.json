@@ -1,0 +1,59 @@
+{
+  "train": {
+    "archive": "backtest-result-2026-09-05_02-58-31.zip",
+    "profit_abs": 42715.2556528,
+    "return_total": 4.27152556528,
+    "long_trades": 1152,
+    "short_trades": 1173,
+    "long_profit_abs": 39155.56248209,
+    "short_profit_abs": 3559.693170710001,
+    "funding_column_present": true,
+    "funding_fees_sum": -9912.138690533284,
+    "fee_open_values": [
+      0.0006
+    ],
+    "fee_close_values": [
+      0.0006
+    ],
+    "leverage_values": [
+      1.0
+    ],
+    "first_open": "2021-01-31 12:00:00+00:00",
+    "last_close": "2024-06-30 00:00:00+00:00",
+    "score_calendar_days": 1278
+  },
+  "valid": {
+    "archive": "backtest-result-2026-09-05_02-59-40.zip",
+    "profit_abs": 1736.8407795300006,
+    "return_total": 0.173684077953,
+    "long_trades": 381,
+    "short_trades": 385,
+    "long_profit_abs": 2228.9964643300004,
+    "short_profit_abs": -492.1556848,
+    "funding_column_present": true,
+    "funding_fees_sum": -352.4341974443099,
+    "fee_open_values": [
+      0.0006
+    ],
+    "fee_close_values": [
+      0.0006
+    ],
+    "leverage_values": [
+      1.0
+    ],
+    "first_open": "2024-07-01 04:00:00+00:00",
+    "last_close": "2025-06-30 00:00:00+00:00",
+    "score_calendar_days": 365
+  },
+  "definitions": {
+    "sharpe": "Unmodified EP004ValidLoss._sharpe_daily, close-date realized profit_abs, zero-filled fixed calendar, ddof=1, sqrt(365)",
+    "ann_return": "CAGR of final wallet over the scoring calendar length / 365; fraction",
+    "sortino": "Mean daily realized return / RMS negative daily return * sqrt(365), target 0",
+    "max_drawdown": "Daily realized equity drawdown including initial wallet; fraction; not intraday/mark-to-market drawdown",
+    "calmar": "ann_return / daily realized max_drawdown",
+    "win_rate": "Fraction of trades with profit_abs > 0",
+    "profit_factor": "Sum positive profit_abs / absolute sum negative profit_abs",
+    "turnover_per_year": "2 * sum entry stake / initial wallet / scoring years; round-trip entry-notional approximation",
+    "funding": "Presence of actual funding_fees on exported trades; cross-check data manifest and engine logs"
+  }
+}

@@ -1,0 +1,2 @@
+[export] 6 trials, 6 有 train/valid -> /freqtrade/user_data/hyperopt_results.json
+[export] best valid_sharpe=0.768 @epoch 6  params={'entry_band': 1.0, 'trend_window': 180}
